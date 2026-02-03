@@ -1,0 +1,32 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyd
+*.dll
+*.so
+*.dylib
+
+# Node
+node_modules/
+npm-debug.log
+
+# VS Code
+.vscode/
+
+# Project Specific
+drawing-ai/backend/venv/
+drawing-ai/backend/.venv/
+drawing-ai/backend/models/
+drawing-ai/backend/data/processed/
+drawing-ai/backend/data/raw_drawings/
+drawing-ai/data/
+.paddlex/
+.pytest_cache/
+
+# Large Files
+*.gguf
+*.pt
+*.onnx

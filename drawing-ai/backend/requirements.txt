@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+python-multipart
+opencv-python
+pillow
+paddleocr
+paddlepaddle
+ultralytics
+torch
+torchvision
+transformers
+accelerate
+bitsandbytes
+scipy
+pymupdf
+llama-cpp-python
